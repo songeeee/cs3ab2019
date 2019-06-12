@@ -19,7 +19,7 @@ public class HttpSessionUtils {
 		/*
 		if(login == writer) {
 			return true;
-		}
+		}//안됨
 		*/
 		return false;
 	}
